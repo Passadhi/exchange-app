@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 150%;
+    }
+.clock{
+ font-size: 150%; 
+}
+.dropdown{
+ font-size: 150%; 
+}
+.buysell {
+    display:flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+    font-size: 150%;
+}
